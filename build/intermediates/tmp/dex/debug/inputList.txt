@@ -1,0 +1,3 @@
+/Users/apple/Documents/MinMinGuard/build/intermediates/classes/debug
+/Users/apple/Documents/MinMinGuard/build/intermediates/pre-dexed/debug/classes-23711748acd81109a558e7fc35196ddf3e0306cd.jar
+/Users/apple/Documents/MinMinGuard/build/intermediates/pre-dexed/debug/support-v4-18.0.0-6c5933aa9035b00d8063f98f496e22d62e3cad37.jar

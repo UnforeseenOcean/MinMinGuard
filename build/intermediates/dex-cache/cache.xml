@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/apple/Documents/MinMinGuard/build/intermediates/pre-dexed/debug/support-v4-18.0.0-6c5933aa9035b00d8063f98f496e22d62e3cad37.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/MinMinGuard/build/intermediates/exploded-aar/MinMinGuard/actionbarsherlock/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4621e3ed41412ffcdb074e162509a7cf0630d8a1">
+        <dex dex="/Users/apple/Documents/MinMinGuard/build/intermediates/pre-dexed/debug/classes-23711748acd81109a558e7fc35196ddf3e0306cd.jar" />
+    </item>
+
+</items>
